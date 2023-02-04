@@ -14,7 +14,7 @@ function insertionSort(lista){
             lista[analise] = itemAnterior;
             lista[analise - 1] = itemAnalise;
             
-            // Colocamos a parada do while, pois se não ele iria criar um loop infinito, sendo assim, "bugando" a segunda parte da condição, pois estaria correta
+            /* Colocamos a parada do while, pois se não ele iria criar um loop infinito, sendo assim, "bugando" a segunda parte da condição, pois estaria correta, aí por fim, caso haja algo mais barato por último, ele continua o loop e faz com que esse preço barato chegue no local certo*/
             analise--
         }
     }
