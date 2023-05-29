@@ -14,7 +14,7 @@
 
 <section id="sobre">
     <h2 style="font-size: 1.25rem;">Sobre</h2>
-    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/algoritmos-javascript-i-algoritmos-ordenacao">JavaScript: Objetos</a> com <b>auxílio</b> da instrutora <b>Juliana Amoasei</b>.</p>
+    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/algoritmos-javascript-i-algoritmos-ordenacao">JavaScript I: Algoritmos de Ordenação</a> com <b>auxílio</b> da instrutora <b>Juliana Amoasei</b>.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
 </section>
 
