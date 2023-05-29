@@ -1,7 +1,7 @@
 <hr>
 
 <main>
-    <h1 align="center">JavaScript Algoritmo 1</h1>
+    <h1 align="center">JavaScript Algoritmo I</h1>
     <p align="center" style="font-size: 1.25rem;">
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
